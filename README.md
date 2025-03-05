@@ -10,20 +10,20 @@ This project predicts NCAA basketball game outcomes and suggests betting strateg
 
 ## Setup
 1. Clone this repository:
-git clone https://github.com/Techworks/NCAA_Betting_Predictor.git
+  git clone https://github.com/Techworks/NCAA_Betting_Predictor.git
 
 2. Navigate to the project directory:
-cd NCAA_Betting_Predictor
+  cd NCAA_Betting_Predictor
 
 3. Create a virtual environment and activate it:
-python -m venv env env\Scripts\activate
+  python -m venv env env\Scripts\activate
 
 4. Install dependencies:
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 ## Usage
 Run the main script:
-python main.py
+  python main.py
 
 
 
